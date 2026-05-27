@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/rumteenhq" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="rumteenhq.github.io" target="_blank">
+  <a href="https://rumteenhq.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:rumteent9@gmail.com">
